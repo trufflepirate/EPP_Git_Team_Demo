@@ -4,12 +4,13 @@ Just to simulate content in a programming source code
 All statements starts as "Code A" in this file
 ********************/
 
+
+1. X
 X. Code Duo Fibonacci
+3. X. Code Uno Prime
 X. Code Duo Fibonacci
+5. X. Code Uno Prime
 X. Code Duo Fibonacci
-4. Code A
-X. Code Duo Fibonacci
-6. X
-7. Code A
+7. X. Code Uno Prime
 X. Code Duo Fibonacci
 9. Code A
